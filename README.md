@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Samshh
+- 👀 I’m interested in Mahchine Learning
+- 🌱 I’m currently learning C/C++
+- 📫 How to reach me www.linkedin.com/in/samshh
+
+<!---
+Samshh/Samshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
