@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samshh
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Cloud Engineering
 - 📫 How to reach me www.linkedin.com/in/samshh
 
 <!---
