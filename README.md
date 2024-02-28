@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Samshh
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning to live
-- 📫 How to reach me www.linkedin.com/in/samshh
+👋 Hi, I’m @Samshh
+visit my website [Samshh](https://samshh.netlify.app/ "About me")
+
 
 <!---
 Samshh/Samshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
