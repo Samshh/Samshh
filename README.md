@@ -1,3 +1,1 @@
-# 👋 Wasssup
-### 🔭 Web Developer & Designer
 
